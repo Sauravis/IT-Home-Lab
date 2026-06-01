@@ -22,3 +22,7 @@ Verify network connectivity and basic DNS resolution in Ubuntu.
 ip a
 ping 8.8.8.8
 ping google.com
+```
+✅ Result
+
+Network connectivity and DNS resolution were working correctly.

@@ -25,10 +25,6 @@ Steps taken to identify the issue:
 ip a
 ping 8.8.8.8
 ping google.com
-
-🛠️ Solution
-
-Restarted network services and verified configuration.
 ```
 
 🛠️ Solution

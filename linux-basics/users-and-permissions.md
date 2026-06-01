@@ -1,5 +1,7 @@
 # Users and Permissions (Linux)
 
+---
+
 ## 🎯 Objective
 Learn basic user management in Ubuntu.
 
@@ -16,12 +18,8 @@ Learn basic user management in Ubuntu.
 
 ## 💻 Commands used
 
-```bash id="cmdfix1"
+```bash id="cmdfinal2"
 whoami
 sudo adduser testuser
 sudo usermod -aG sudo testuser
 groups testuser
-
-## ✅ Result
-
-User was created successfully and sudo permissions were assigned.

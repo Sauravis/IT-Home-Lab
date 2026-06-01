@@ -23,3 +23,7 @@ whoami
 sudo adduser testuser
 sudo usermod -aG sudo testuser
 groups testuser
+```
+✅ Result
+
+User was created successfully and sudo permissions were assigned.
